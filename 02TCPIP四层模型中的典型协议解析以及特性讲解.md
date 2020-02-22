@@ -112,7 +112,13 @@ HTTP常见Header
 
 #### 2.4.1连接管理
 
-- [ ] tcp三次握手四次挥手
+Tcp三次握手
+
+![1582375221928](C:\Users\岳心怡\AppData\Roaming\Typora\typora-user-images\1582375221928.png)
+
+TCP四次挥手
+
+![1582375545651](C:\Users\岳心怡\AppData\Roaming\Typora\typora-user-images\1582375545651.png)
 
 ##### 问题1.为什么握手是三次而挥手是四次？
 
